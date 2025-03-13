@@ -1,0 +1,10 @@
+C:\Users\bhattacharya\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/bhattacharya/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\bhattacharya\Dropbox\CSC2210\Spring2025\TypeofInheritance -B C:\Users\bhattacharya\Dropbox\CSC2210\Spring2025\TypeofInheritance\cmake-build-debug
+-- Configuring done (0.2s)
+CMake Error in CMakeLists.txt:
+  Target "new_target" requires the language dialect "CXX21" (with compiler
+  extensions).  But the current compiler "GNU" does not support this, or
+  CMake does not know the flags to enable it.
+
+
+-- Generating done (0.0s)
+CMake Generate step failed.  Build files cannot be regenerated correctly.

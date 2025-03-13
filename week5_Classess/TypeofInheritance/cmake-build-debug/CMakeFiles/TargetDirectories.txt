@@ -1,0 +1,3 @@
+C:/Users/bhattacharya/Dropbox/CSC2210/Spring2025/TypeofInheritance/cmake-build-debug/CMakeFiles/new_target.dir
+C:/Users/bhattacharya/Dropbox/CSC2210/Spring2025/TypeofInheritance/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bhattacharya/Dropbox/CSC2210/Spring2025/TypeofInheritance/cmake-build-debug/CMakeFiles/rebuild_cache.dir

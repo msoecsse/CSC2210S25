@@ -1,0 +1,4 @@
+# ninja log v6
+14	610	7624058143550453	CMakeFiles/new_target.dir/multiple_inheritance.cpp.obj	5da6f9ae75ba9b48
+21	604	7624058143620475	CMakeFiles/new_target.dir/hierarchical_inheritance.cpp.obj	b76579aee75c9653
+31	598	7624058143710490	CMakeFiles/new_target.dir/multilevel_inheritance.cpp.obj	1eb8da4b09358c16

@@ -1,0 +1,3 @@
+C:/Users/bhattacharya/Dropbox/CSC2210/Spring2025/templateDemo4/cmake-build-debug/CMakeFiles/templateDemo4.dir
+C:/Users/bhattacharya/Dropbox/CSC2210/Spring2025/templateDemo4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bhattacharya/Dropbox/CSC2210/Spring2025/templateDemo4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
