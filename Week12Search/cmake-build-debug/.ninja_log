@@ -1,0 +1,13 @@
+# ninja log v6
+3	397	7663367249487169	CMakeFiles/Week12Search.dir/LinearSearch.cpp.obj	bd02a602ba1347ec
+632	764	7663385951920849	Week12SearchVisual.exe	28493ed50783170c
+620	767	7663375927876836	Week12Search.exe	e3dc57bddd4920cf
+4	619	7663375921717417	CMakeFiles/Week12Search.dir/main.cpp.obj	b3b5918d5063c797
+2	326	7663388962049097	build.ninja	28f05e01f1e9901a
+2	562	7663380575489871	CMakeFiles/Week12SearchBinary.dir/main2.cpp.obj	a63876cadd707870
+564	719	7663380581114761	Week12SearchBinary.exe	dcce5dbb7c633f50
+4	632	7663385945643044	CMakeFiles/Week12SearchVisual.dir/main3.cpp.obj	dee9eed1a54ee309
+2	655	7663389611115758	CMakeFiles/Week12SearchDuplicate.dir/main4.cpp.obj	ac8c1b1aa87382d0
+655	829	7663389617639355	Week12SearchDuplicate.exe	747875d875dea763
+3	494	7663392377663229	CMakeFiles/Week12SearchDuplicate.dir/main4.cpp.obj	ac8c1b1aa87382d0
+495	629	7663392382583426	Week12SearchDuplicate.exe	747875d875dea763
