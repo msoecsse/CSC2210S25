@@ -1,0 +1,6 @@
+C:/Users/bhattacharya/Dropbox/CSC2210/Spring2025/Week12Search/cmake-build-debug/CMakeFiles/Week12SearchLinear.dir
+C:/Users/bhattacharya/Dropbox/CSC2210/Spring2025/Week12Search/cmake-build-debug/CMakeFiles/Week12SearchBinary.dir
+C:/Users/bhattacharya/Dropbox/CSC2210/Spring2025/Week12Search/cmake-build-debug/CMakeFiles/Week12SearchVisual.dir
+C:/Users/bhattacharya/Dropbox/CSC2210/Spring2025/Week12Search/cmake-build-debug/CMakeFiles/Week12SearchDuplicate.dir
+C:/Users/bhattacharya/Dropbox/CSC2210/Spring2025/Week12Search/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bhattacharya/Dropbox/CSC2210/Spring2025/Week12Search/cmake-build-debug/CMakeFiles/rebuild_cache.dir

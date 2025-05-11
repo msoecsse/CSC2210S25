@@ -1,0 +1,177 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Week12Sort",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ShellSortVisual::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ShellSortVisual-Debug-4d9215986e86ae1f483c.json",
+					"name" : "ShellSortVisual",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week12BubbleSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week12BubbleSort-Debug-e68df52858991e1dd855.json",
+					"name" : "Week12BubbleSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week12BubbleSortperformance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week12BubbleSortperformance-Debug-e088e9f1da27722a5ecc.json",
+					"name" : "Week12BubbleSortperformance",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week12BucketSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week12BucketSort-Debug-be3a2a3c60cffacf9f0d.json",
+					"name" : "Week12BucketSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week12HeapSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week12HeapSort-Debug-4b9d7ab5df063352f53b.json",
+					"name" : "Week12HeapSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week12InsertionSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week12InsertionSort-Debug-7598e7a2df8ff3fff481.json",
+					"name" : "Week12InsertionSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week12MergeSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week12MergeSort-Debug-7017206b9879fca904ae.json",
+					"name" : "Week12MergeSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week12QuickSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week12QuickSort-Debug-34e8c9afd8330357df66.json",
+					"name" : "Week12QuickSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week12RadixSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week12RadixSort-Debug-fdbcd61da56b415bc4a2.json",
+					"name" : "Week12RadixSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week12SelectionSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week12SelectionSort-Debug-e581b9fed93da2e9f88d.json",
+					"name" : "Week12SelectionSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week12ShellSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week12ShellSort-Debug-41aae2b1263d12e3eef3.json",
+					"name" : "Week12ShellSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week12Sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week12Sort-Debug-30d2db8f44cc906e1fa7.json",
+					"name" : "Week12Sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week12SortExercise::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week12SortExercise-Debug-6a6b7d6f238be97d76f6.json",
+					"name" : "Week12SortExercise",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Week12TimSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week12TimSort-Debug-e6cc103e455c5749fb2c.json",
+					"name" : "Week12TimSort",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/bhattacharya/Dropbox/CSC2210/Spring2025/Week12Sort/cmake-build-debug",
+		"source" : "C:/Users/bhattacharya/Dropbox/CSC2210/Spring2025/Week12Sort"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
